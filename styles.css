@@ -1,0 +1,11 @@
+body {
+    background-image: url(seatwork\ q2\ background.jpg);
+    background-size: cover;
+}
+
+h1 {
+  font-family: "Edu QLD Hand", cursive;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+}
